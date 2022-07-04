@@ -7,6 +7,8 @@ To perform grammar check on the reviews from the given dataset using any pre-tra
 * Checking for null values and dropping them
 * Removing non english words using **nltk** library because these words can generate wrong results when checking for grammar
 * Removing any empty rows after taking only english words
-## 
+## Grammar check
 * Calculating the number of grammatical errors in each sentence using **Language tool python** library
 * Using this error to calculate accuracy(%) of a particular text
+## Result
+![Screenshot](grammar_check_result.png)
