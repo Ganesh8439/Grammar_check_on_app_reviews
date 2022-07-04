@@ -12,7 +12,7 @@ To perform grammar check on the reviews from the given dataset using any pre-tra
 * Using this error to calculate accuracy(%) of a particular text
 ## Result
 ![Screenshot](grammar_check_result.png)
-
+# Bonus questions
 # Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution)
 The difficult problem I solved was the next question because its a tricky question and need full understanding of the theory to answer it correctly, So I had to understand the theory by studying from the internet and finally found the solution
 
@@ -20,7 +20,7 @@ The difficult problem I solved was the next question because its a tricky questi
 * The set of pairs (a, a + 1) for all real a
 * The set of pairs (a, b) for all real a ≥ b
 * The set of pairs (a, 2a) for all real a
-* The set of pairs (a, b) for all non-negative real a,b
+* The set of pairs (a, b) for all non-negative real a,b\
 So for these pairs to be subpace of V they should be also a vector space and for any pair to be vector space they must follow all these conditions
 ![Screenshot](vector_space.png)
 * So according to Identity element of vector addition axiom (0,0) must be a pair which is not possible for the (a,a+1) pair hence it is not a subspace
