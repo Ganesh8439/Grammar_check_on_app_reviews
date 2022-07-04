@@ -27,4 +27,4 @@ The difficult problem I solved was the next question because its a tricky questi
 * So according to Inverse elements of vector addition axiom there must be -V which is not possible for all points in (a,b) for all real a ≥ b Example: for (3,2) there must be (-3,-2) here a<=b hence this also not a subspace
 * So according to Identity element of scalar multiplication axiom (1,1) must be a pair which is not possible for (a,2a) pair hence it is not a subspace
 * So according to Inverse elements of vector addition axiom there must be -V which is not possible because it only contains non negative hence it is not a subspace
-## So, none of these points form a subspace
+## So, none of these pairs form a subspace
