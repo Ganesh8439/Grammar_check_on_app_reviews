@@ -21,7 +21,7 @@ The difficult problem I solved was the next question because its a tricky questi
 * The set of pairs (a, b) for all real a ≥ b
 * The set of pairs (a, 2a) for all real a
 * The set of pairs (a, b) for all non-negative real a,b\
-So for these pairs to be subpace of V they should be also a vector space and for any pair to be vector space they must follow all these conditions
+## So for these pairs to be subpace of V they should be also a vector space and for any pair to be vector space they must follow all these conditions
 ![Screenshot](vector_space.png)
 * So according to Identity element of vector addition axiom (0,0) must be a pair which is not possible for the (a,a+1) pair hence it is not a subspace
 * So according to Inverse elements of vector addition axiom there must be -V which is not possible for all points in (a,b) for all real a ≥ b Example: for (3,2) there must be (-3,-2) here a<=b hence this also not a subspace
