@@ -11,4 +11,4 @@ To perform grammar check on the reviews from the given dataset using any pre-tra
 * Calculating the number of grammatical errors in each sentence using **Language tool python** library
 * Using this error to calculate accuracy(%) of a particular text
 ## Result
-![Screenshot](/grammar_check_result.png)
+![Screenshot](grammar_check_result.png)
